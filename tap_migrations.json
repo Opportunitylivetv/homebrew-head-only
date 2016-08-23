@@ -2,6 +2,7 @@
   "figtoipe": "homebrew/boneyard",
   "gitstats": "homebrew/boneyard",
   "hg-fast-export": "homebrew/core",
+  "httpdiff": "homebrew/core",
   "redis-tools": "homebrew/boneyard",
-  "httpdiff": "homebrew/core"
+  "termbox": "homebrew/core"
 }
