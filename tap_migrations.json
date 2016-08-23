@@ -1,5 +1,6 @@
 {
   "figtoipe": "homebrew/boneyard",
   "gitstats": "homebrew/boneyard",
-  "hg-fast-export": "homebrew/core"
+  "hg-fast-export": "homebrew/core",
+  "redis-tools": "homebrew/boneyard"
 }
