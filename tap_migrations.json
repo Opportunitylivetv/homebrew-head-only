@@ -4,6 +4,7 @@
   "gitstats": "homebrew/boneyard",
   "hg-fast-export": "homebrew/core",
   "httpdiff": "homebrew/core",
+  "kati": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "termbox": "homebrew/core"
 }
