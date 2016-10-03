@@ -1,5 +1,6 @@
 {
   "disque": "homebrew/boneyard",
+  "f2c": "homebrew/boneyard",
   "figtoipe": "homebrew/boneyard",
   "gitstats": "homebrew/boneyard",
   "hg-fast-export": "homebrew/core",
