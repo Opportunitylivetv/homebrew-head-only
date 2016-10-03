@@ -5,6 +5,7 @@
   "bd": "homebrew/boneyard",
   "bonnie": "homebrew/boneyard",
   "daala": "homebrew/boneyard",
+  "depot-tools": "homebrew/boneyard",
   "despotify": "homebrew/boneyard",
   "disque": "homebrew/boneyard",
   "f2c": "homebrew/boneyard",
