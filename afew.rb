@@ -1,10 +1,10 @@
 class Afew < Formula
-  desc "afew is an initial tagging script for notmuch."
+  desc "Initial tagging script for notmuch"
   homepage "https://github.com/teythoon/afew"
   head "https://github.com/teythoon/afew.git"
 
   depends_on :python if MacOS.version <= :snow_leopard
-  depends_on "notmuch" => ["with-python"]
+  depends_on "notmuch"
   depends_on "dbacl"
   depends_on "emacs" => :optional
 
