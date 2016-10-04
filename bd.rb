@@ -1,4 +1,5 @@
 class Bd < Formula
+  desc "Quickly go back to a parent directory in Linux"
   homepage "https://github.com/vigneshwaranr/bd"
   head "https://github.com/vigneshwaranr/bd.git"
 
