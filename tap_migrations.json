@@ -29,6 +29,7 @@
   "termbox": "homebrew/core",
   "tsocks": "homebrew/boneyard",
   "uniset": "homebrew/boneyard",
+  "urbit": "homebrew/core",
   "vcontrold": "homebrew/boneyard",
   "willgit": "homebrew/core",
   "woff2": "homebrew/boneyard",
