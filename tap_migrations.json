@@ -15,6 +15,7 @@
   "hg-fast-export": "homebrew/core",
   "httpdiff": "homebrew/core",
   "kati": "homebrew/boneyard",
+  "lastfm_fplib": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "termbox": "homebrew/core"
 }
