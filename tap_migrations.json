@@ -23,5 +23,6 @@
   "tsocks": "homebrew/boneyard",
   "uniset": "homebrew/boneyard",
   "woff2": "homebrew/boneyard",
-  "wol": "homebrew/boneyard"
+  "wol": "homebrew/boneyard",
+  "word2vec": "homebrew/boneyard"
 }
