@@ -20,5 +20,6 @@
   "shaper-probe": "homebrew/boneyard",
   "termbox": "homebrew/core",
   "tsocks": "homebrew/boneyard",
-  "uniset": "homebrew/boneyard"
+  "uniset": "homebrew/boneyard",
+  "woff2": "homebrew/boneyard"
 }
