@@ -17,5 +17,6 @@
   "kati": "homebrew/boneyard",
   "lastfm_fplib": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
+  "shaper-probe": "homebrew/boneyard",
   "termbox": "homebrew/core"
 }
