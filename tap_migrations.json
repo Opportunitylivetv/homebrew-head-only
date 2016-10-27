@@ -21,5 +21,6 @@
   "termbox": "homebrew/core",
   "tsocks": "homebrew/boneyard",
   "uniset": "homebrew/boneyard",
-  "woff2": "homebrew/boneyard"
+  "woff2": "homebrew/boneyard",
+  "wol": "homebrew/boneyard"
 }
