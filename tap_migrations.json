@@ -18,6 +18,7 @@
   "lastfm_fplib": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
+  "squishyball": "homebrew/boneyard",
   "termbox": "homebrew/core",
   "tsocks": "homebrew/boneyard",
   "uniset": "homebrew/boneyard",
