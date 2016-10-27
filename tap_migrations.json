@@ -10,6 +10,7 @@
   "f2c": "homebrew/boneyard",
   "figtoipe": "homebrew/boneyard",
   "fssh": "homebrew/boneyard",
+  "git-hg": "homebrew/boneyard",
   "gitstats": "homebrew/boneyard",
   "hg-fast-export": "homebrew/core",
   "httpdiff": "homebrew/core",
