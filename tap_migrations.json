@@ -22,6 +22,7 @@
   "termbox": "homebrew/core",
   "tsocks": "homebrew/boneyard",
   "uniset": "homebrew/boneyard",
+  "willgit": "homebrew/core",
   "woff2": "homebrew/boneyard",
   "wol": "homebrew/boneyard",
   "word2vec": "homebrew/boneyard"
