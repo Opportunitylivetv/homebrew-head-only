@@ -19,5 +19,6 @@
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
   "termbox": "homebrew/core",
-  "tsocks": "homebrew/boneyard"
+  "tsocks": "homebrew/boneyard",
+  "uniset": "homebrew/boneyard"
 }
