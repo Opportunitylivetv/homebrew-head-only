@@ -16,6 +16,7 @@
   "httpdiff": "homebrew/core",
   "kati": "homebrew/boneyard",
   "lastfm_fplib": "homebrew/boneyard",
+  "neatvi": "homebrew/core",
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
   "squishyball": "homebrew/boneyard",
