@@ -17,6 +17,7 @@
   "kakoune": "homebrew/boneyard",
   "kati": "homebrew/boneyard",
   "lastfm_fplib": "homebrew/boneyard",
+  "libemu": "homebrew/boneyard",
   "neatvi": "homebrew/core",
   "otx": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
