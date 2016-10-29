@@ -17,6 +17,7 @@
   "kati": "homebrew/boneyard",
   "lastfm_fplib": "homebrew/boneyard",
   "neatvi": "homebrew/core",
+  "otx": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
   "squishyball": "homebrew/boneyard",
