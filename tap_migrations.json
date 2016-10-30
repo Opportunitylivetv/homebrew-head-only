@@ -21,6 +21,7 @@
   "neatvi": "homebrew/core",
   "osmfilter": "homebrew/core",
   "otx": "homebrew/boneyard",
+  "qt-mobility": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
   "sigar": "homebrew/boneyard",
