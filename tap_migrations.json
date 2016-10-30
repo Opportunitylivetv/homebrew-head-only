@@ -23,6 +23,7 @@
   "otx": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
+  "sigar": "homebrew/boneyard",
   "squishyball": "homebrew/boneyard",
   "termbox": "homebrew/core",
   "tsocks": "homebrew/boneyard",
