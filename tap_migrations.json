@@ -23,6 +23,7 @@
   "open-sg": "homebrew/boneyard",
   "osmfilter": "homebrew/core",
   "otx": "homebrew/boneyard",
+  "pdftoipe": "homebrew/core",
   "qt-mobility": "homebrew/boneyard",
   "redis-tools": "homebrew/boneyard",
   "shaper-probe": "homebrew/boneyard",
